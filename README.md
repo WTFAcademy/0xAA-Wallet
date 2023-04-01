@@ -32,7 +32,12 @@ WTF Academy is a web3 open-source university for developers, we aim to onboard 1
 4. Solive (https://ethglobal.com/showcase/solive-picjb): Solive is a flexible online playground for Solidity smart contracts, inspired by remix-IDE and react-live. You can edit, compile, deploy, and interact with solidity smart contracts in one React component. This will be essential component for 0xAA wallet.
 
 ## Methodology
-How do you plan to achieve your research objectives?
+We plan to achieve our goal in following steps:
+1. Research carefully on Account Abstraction and ERC4337 related topics.
+2. Write tutorials on Account Abstraction and ERC4337.
+3. Research carefully on existing open-source Ethereum wallet.
+4. Design a minimal ERC4337 compatible web wallet.
+5. Build a minimal ERC4337 compatible web wallet.
 
 ## Timeline
 We plan to finish the MVP of 0xAA Wallet in the coming 6 months.
