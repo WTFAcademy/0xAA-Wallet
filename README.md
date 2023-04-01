@@ -40,7 +40,7 @@ We plan to achieve our goal in following steps:
 5. Build a minimal ERC4337 compatible web wallet.
 
 ## Timeline
-We plan to finish the MVP of 0xAA Wallet in the coming 6 months.
+We plan to finish the tutorials on ERC4337 and the MVP of 0xAA Wallet in the coming 6 months.
 
 ## Budget
 USD 50,000
