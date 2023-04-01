@@ -1,11 +1,11 @@
 # 0xAA-Wallet
-0xAA Wallet is a AA (Account Abstraction) wallet focused on developer experience, which helps developers build ERC4337 compatible Dapp. 
+0xAA Wallet is a AA (Account Abstraction) wallet focused on developer education and experience, which helps developers build ERC4337 compatible Dapp. 
 
 ## Objectives
-We will built a MVP of 0xAA Wallet with this grant: a web wallet that help developer to build and test ERC4337 compatible contract.
+We will built a MVP of 0xAA Wallet and tutorial on how to develop ERC4337 compatible Dapp with this grant. 0xAA Wallet is a web wallet that help developer to build and test ERC4337 compatible contract.
 
 ## Outcomes
-Developers will have a better tools to develop ERC4337 compatible contract and Dapp.
+Developers will have a better tooling to develop ERC4337 compatible contract and Dapp.
 
 ## Grant Scope
 We will research on ERC-4337 in detail, and build a wallet for developers.
@@ -23,9 +23,13 @@ Wangshuai, backend developer, 40 hours per month.
 Tank, Designer, 40 hours per month.
 
 ## Background
-Give us a bit of info and include relevant links, if available! Please provide other projects or research papers (ideally public and/or open source), engagements or other types of proof that your team has the necessary experience to undertake the project you are applying for.
 
-Any links for us to review? E.g. research papers, blog posts, etc.
+WTF Academy is a web3 open-source university for developers, we aim to onboard 10,000 developers to Ethereum. We have built:
+
+1. WTF Soldiity (https://github.com/AmazingAng/WTF-Solidity): 70+ chapters, 6,700+ stars, 90+ contributors, top 3 Solidity repo in Github.
+2. WTF Ethers (https://github.com/WTFAcademy/WTF-Ethers): 20+ chapters, 1,500+ stars, 20+ contributors, top 3 Ethers repo in Github.
+3. Education Platform (https://wtf.academy): integrated education platform including tutorials, quizzes, and onchain certificates, for free.
+4. Solive (https://ethglobal.com/showcase/solive-picjb): Solive is a flexible online playground for Solidity smart contracts, inspired by remix-IDE and react-live. You can edit, compile, deploy, and interact with solidity smart contracts in one React component. This will be essential component for 0xAA wallet.
 
 ## Methodology
 How do you plan to achieve your research objectives?
